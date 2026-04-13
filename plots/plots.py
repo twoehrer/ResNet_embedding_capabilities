@@ -9,7 +9,6 @@ from matplotlib import rc
 import numpy as np
 import torch
 import torch.nn as nn
-from mpl_toolkits.mplot3d import Axes3D
 
 import seaborn as sns
 from matplotlib.colors import to_rgb
